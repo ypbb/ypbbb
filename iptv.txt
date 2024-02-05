@@ -116,7 +116,6 @@ CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227267/index.m3u8
 CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226176/index.m3u8
 CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226176/index.m3u8
 CCTV5,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226200/index.m3u8?from=21
-CCTV5,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226944/index.m3u8?from=21
 CCTV5,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 CCTV5,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 CCTV5,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
@@ -356,7 +355,6 @@ CGTN,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227090/index.m3u8
 辽宁影视,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226738/index.m3u8?from=21
 体育,#genre# 
 CCTV5,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226200/index.m3u8?from=21
-CCTV5,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226944/index.m3u8?from=21
 CCTV5,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 CCTV5,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 CCTV5,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
@@ -396,11 +394,6 @@ CCTV5+,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227236/index.m3u8?s
 辽宁体育,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226764/index.m3u8
 辽宁体育,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226764/index.m3u8
 辽宁体育,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226764/index.m3u8
-百事通体育,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226843/index.m3u8?from=21
-百事通体育,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226947/index.m3u8?from=21
-百视通体育,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226934/index.m3u8?from=21
-百视通体育,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226030/index.m3u8?from=21
-咪咕视频,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226840/index.m3u8?from=21
 卫视,#genre# 
 安徽卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226931/index.m3u8?from=21
 安徽卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226196/index.m3u8?from=21
